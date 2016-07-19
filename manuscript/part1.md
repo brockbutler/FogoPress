@@ -1,7 +1,12 @@
-# Markdown Syntax #
+# Syntax #
+
+Using Markua[^markua-spec] flavor of Markdown with some enhancements to improve workflow and extend usage beyond just books.
+
+[^markua-spec]: Armstrong, Peter. 2014. The Markua Specification. Leanpub. https://leanpub.com/markua
 
 # Text Formatting
 
+How to format text
 
 ## Italicized or Emphasized Text
 
@@ -110,3 +115,41 @@ The quadruple ____ syntax maps to \<u> tag in HTML is used for underline styling
 | \*\*\*three asterisks\*\*\*      | \<strong>\<em>three asterisks\</em>\</strong> | ***bold italic*** |
 | \_\_\_\_four underscores\_\_\_\_ | \<u>four underscores\</u>                     | ____underline____ |
 | \*\*\*\*four asterisks\*\*\*     | \<u>four asterisks\</u>                       | ****underline**** |
+
+
+# TODO
+
+More to come
+
+# Writing Guidelines #
+
+# Toolchain #
+
+# TODO
+
+Automation
+* TextExpander
+
+Writing
+* Scrivener
+* Gingko App
+* TextMate
+
+Idea Formation
+* MindMeister
+* Evernote
+* Index Carts
+
+Bibliography
+* Zotero
+
+Publishing
+* WordPress (plugins?)
+* LeanPub
+* GitBook
+
+Version Control, Collaboration, Change Tracking
+* Git
+* GitHub
+
+## TextExpander
